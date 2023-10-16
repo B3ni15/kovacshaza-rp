@@ -1,1 +1,1 @@
-# -
+# Segg szerver
